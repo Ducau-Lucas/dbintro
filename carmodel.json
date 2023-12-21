@@ -1,0 +1,12 @@
+{
+    "maker": "Audi",
+    "model": "Regalia",
+    "year": "10-02-2000",
+    "transmission":"Automatic",
+    "fuelType":"Gasoline",
+    "mileage":32,
+    "price":28000,
+    "sales":250,
+    "country": "FR",
+    "inStock": true
+}
